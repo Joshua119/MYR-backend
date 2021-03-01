@@ -28,7 +28,7 @@
     "mongodb-memory-server": "^2.9.3",
     "mongoose": "^5.4.22",
     "morgan": "^1.9.1",
-    "pug": "^2.0.3",
+    "pug": "^3.0.2",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
