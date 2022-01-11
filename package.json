@@ -35,6 +35,6 @@
     "eslint": "^5.16.0",
     "jest": "^24.8.0",
     "superagent": "^4.1.0",
-    "supertest": "^3.4.2"
+    "supertest": "^6.2.0"
   }
 }
